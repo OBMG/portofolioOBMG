@@ -1,0 +1,17 @@
+body{
+    background: url(/pictures/unnamed.jpg) center/cover;
+    min-height: 10vh;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 500%;
+    text-shadow: 20px -9px 10px white;
+}
+section h2{
+    font-size: medium;
+    font-family: times;
+    color: cornflowerblue;
+}

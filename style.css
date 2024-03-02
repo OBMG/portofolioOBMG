@@ -1,6 +1,7 @@
 body{
-    background: url(/pictures/unnamed.jpg) center/cover;
-    min-height: 10vh;
+    background: url(/Screen/teslariu-mihai-YKuvEyqcdO8-unsplash.jpg) center/ cover;
+    /*vh= 100% de la taille de l'écran (viewportheight)*/
+    min-height: 100vh;
 }
 h1{
     text-align: center;
